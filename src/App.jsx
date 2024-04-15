@@ -1,8 +1,9 @@
 import React from 'react';
+import Light from './components/light';
 
 const App = () => {
     return (
-        <h1>REACT APP</h1>
+        <Light/>
     )
 }
 

@@ -1,0 +1,8 @@
+.traffic-light{
+    background-color: black;
+    padding: 10px;
+    display: inline-block;
+    margin:auto;
+    width: 100px;
+    height: 300px;
+}
