@@ -16,13 +16,13 @@ const Light = () => {
         <div
                 onClick={() => setSelectColor("yellow")}
                 className={
-                    "light-red" + (selectColor === "yellow" ? " glow" : "")}>
+                    "light-yellow" + (selectColor === "yellow" ? " glow" : "")}>
         </div>
 
         <div
                 onClick={() => setSelectColor("green")}
                 className={
-                    "light-red" + (selectColor === "green" ? " glow" : "")}>
+                    "light-green" + (selectColor === "green" ? " glow" : "")}>
         </div>
     </div >
 );
